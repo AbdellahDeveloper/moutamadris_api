@@ -1,4 +1,4 @@
-# Moutamadris API for Python 💻
+# Unofficial Moutamadris API for Python 💻
 
 ![Static Badge](https://img.shields.io/badge/Awesome%20API-8A2BE2?logo=windows&logoColor=white)
 
