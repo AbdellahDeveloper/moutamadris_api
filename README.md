@@ -2,7 +2,7 @@
 
 ![Static Badge](https://img.shields.io/badge/Awesome%20API-8A2BE2?logo=windows&logoColor=white)
 
-Moutamadris Rest API
+**Moutamadris Rest API :**
 >[![Moutamadris](https://img.shields.io/badge/Moutamadris%20Rest%20API-32a852?style=for-the-badge&logo=webpack&logoColor=white)](https://github.com/AbdellahDeveloper/moutamadris_web_api)
 
 ## Installation ⚙️
