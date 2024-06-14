@@ -2,6 +2,9 @@
 
 ![Static Badge](https://img.shields.io/badge/Awesome%20API-8A2BE2?logo=windows&logoColor=white)
 
+Moutamadris Rest API
+>[![Moutamadris](https://img.shields.io/badge/Moutamadris%20Rest%20API-32a852?style=for-the-badge&logo=webpack&logoColor=white)](https://github.com/AbdellahDeveloper/moutamadris_web_api)
+
 ## Installation ⚙️
 
 To install it, use:
@@ -18,10 +21,18 @@ pip install moutamadris_api
 from moutamadris_api import moutamadris,moutamadris_enums
 ```
 ## Create Instance Of Moutamadris
+### using username and password
 Replace **email** and **password** with yours:
 
 ```python
 moutamadris_instance = moutamadris('your_email@taalim.ma', 'your_password')
+```
+
+### using idToken
+Replace **idToken** with yours:
+
+```python
+moutamadris_instance = moutamadris(idToken='idToken')
 ```
 ## Available Functions
 
