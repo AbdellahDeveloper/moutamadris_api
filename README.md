@@ -21,14 +21,14 @@ pip install moutamadris_api
 from moutamadris_api import moutamadris,moutamadris_enums
 ```
 ## Create Instance Of Moutamadris
-### using username and password
+### - using username and password
 Replace **email** and **password** with yours:
 
 ```python
 moutamadris_instance = moutamadris('your_email@taalim.ma', 'your_password')
 ```
 
-### using idToken
+### - using idToken
 Replace **idToken** with yours:
 
 ```python
